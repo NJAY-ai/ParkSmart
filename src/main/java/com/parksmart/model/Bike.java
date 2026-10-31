@@ -13,6 +13,8 @@ public class Bike extends Vehicle {
         return null;
     }
 
+    //sample
+
     @Override
     public double getHourlyRate() {
         // TODO
